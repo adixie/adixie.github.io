@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dixonweb/repositories/portfolio/public_html/
+    - export DEPLOYPATH=/home/dixonweb/public_html/
     - /bin/cp index.html $DEPLOYPATH
